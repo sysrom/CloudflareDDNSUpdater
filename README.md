@@ -25,9 +25,9 @@ A simple dynamic DNS updater
 `Cloudflare_Token` 填你的Cloudflare令牌<br>
 `Cloudflare_Zone_ID` 填入你的Cloudflare区域ID<br>
 填好了应该长这个样子<br>
-`Record_name="test.sysrom.xyz"#记录明加域 例如域是sysrom.xyz 记录名是test 此处就填test.sysrom.xyz\
-Cloudflare_Token="fU-5b*************************XYN"#你觉得这是什么就是什么别问我\
-Cloudflare_Zone_ID="40********************0b"\
-IPAddress=""#填了就傻逼`
+`Record_name="test.sysrom.xyz"#记录名加域 例如域是sysrom.xyz 记录名是test 此处就填test.sysrom.xyz`
+`Cloudflare_Token="fU-5b*************************XYN"#你觉得这是什么就是什么别问我`
+`Cloudflare_Zone_ID="40********************0b"`
+`IPAddress=""#填了就傻逼`
 #### 运行(正常人谁看啊)
 `python main.py`
