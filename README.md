@@ -8,3 +8,6 @@ A simple dynamic DNS updater
 #### 获取区域ID与CFToken
 然后去到你的CloudFlare仪表盘,点击你的域名进入这个域名的域(啊这,应该是这样表达吧)<br>
 ![图一](https://raw.githubusercontent.com/sysrom/CloudflareDDNSUpdater/master/img/CF1.png)
+滑到最下面看右边拦的API 把区域ID记好 要考<br>
+然后点*获取您的API令牌*
+![图二](https://raw.githubusercontent.com/sysrom/CloudflareDDNSUpdater/master/img/CF2.png)
